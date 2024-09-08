@@ -34,8 +34,8 @@
     "fade",
     "mask-image"
   ],
-  "author": "Emmanuel Imolorhe | [@eioluseyi](https://eioluseyi.github.io)",
-  "license": "ISC",
+  "author": "Emmanuel Imolorhe | eioluseyi",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.5.4",
     "tailwindcss": "^3.4.10",
