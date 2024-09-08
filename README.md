@@ -47,6 +47,14 @@ The following directions are available:
 - `fade-l-`
 - `fade-r-`
 
+## Contributing
+
+Contributions are highly welcome! Please see the [Contributing Guide](https://github.com/eioluseyi/tailwind-fade#contributing) for more details on how you can contribute to this project.
+
+![NPM Version](https://img.shields.io/npm/v/@eioluseyi/tailwind-fade)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eioluseyi/tailwind-fade/issues)
+
 ## Keywords
 
 tailwindcss, tailwind, css, plugin, fade, fading, mask, mask-image, gradient, linear-gradient, utility, utilities, classes, styling, ui, ux, web-development, frontend, customization, effect, visual-effect, opacity, transparency, vignette, edge-fading, content-fading, text-fade, image-fade, background-fade, element-fade, fade-in, fade-out, horizontal-fade, vertical-fade, directional-fade, custom-fade, dynamic-fade, adaptive-fade, responsive-fade, css-mask, webkit-mask, mask-property, css-effects, visual-design, web-design, css-utility, tailwind-extension, tailwind-addon, utility-first, atomic-css, composable, modular, flexible, customizable, configurable, npm-package
