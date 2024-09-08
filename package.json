@@ -1,0 +1,44 @@
+{
+  "name": "@eioluseyi/tailwind-fade",
+  "version": "1.0.0",
+  "description": "An open sourced plugin for Tailwind CSS that adds utilities for creating fading effects on elements without using an overlay.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build:cjs && npm run build:esm",
+    "build:cjs": "tsc --module commonjs --outDir lib",
+    "build:esm": "tsc --module esnext --outDir lib/esm",
+    "dev": "tsc --watch --module commonjs --outDir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eioluseyi/tailwind-fade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eioluseyi/tailwind-fade/issues"
+  },
+  "homepage": "https://github.com/eioluseyi/tailwind-fade#readme",
+  "types": "lib/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./lib/esm/index.js",
+      "require": "./lib/index.js"
+    }
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "tailwindcss",
+    "plugin",
+    "fade",
+    "mask-image"
+  ],
+  "author": "Emmanuel Imolorhe | [@eioluseyi](https://eioluseyi.github.io)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.5.4"
+  }
+}
