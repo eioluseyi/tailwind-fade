@@ -47,6 +47,10 @@ The following directions are available:
 - `fade-l-`
 - `fade-r-`
 
+## Want to know the story behind this plugin?
+
+Read my journey of creating the `tailwind-fade` plugin [here ↗](https://dev.to/eioluseyi/creating-a-tailwind-css-fade-plugin-my-journey-20ij).
+
 ## Contributing
 
 Contributions are highly welcome! Please see the [Contributing Guide](https://github.com/eioluseyi/tailwind-fade#contributing) for more details on how you can contribute to this project.
