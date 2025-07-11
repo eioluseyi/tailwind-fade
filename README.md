@@ -9,7 +9,7 @@ npm install @eioluseyi/tailwind-fade
 ```
 
 ```bash
-yarn install @eioluseyi/tailwind-fade
+yarn add @eioluseyi/tailwind-fade
 ```
 
 ## Usage

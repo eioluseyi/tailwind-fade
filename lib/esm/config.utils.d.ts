@@ -1,40 +1,40 @@
 export declare const fadeX: (value: any) => {
-    "--padding": any;
-    "--start-padding": string;
-    "--stop-padding": string;
-    "--mask-gradient": string;
+    "--eio-twf-padding": any;
+    "--eio-twf-start-padding": string;
+    "--eio-twf-stop-padding": string;
+    "--eio-twf-mask-gradient": string;
     "-webkit-mask-image": string;
     maskImage: string;
 };
 export declare const fadeY: (value: any) => {
-    "--padding": any;
-    "--start-padding": string;
-    "--stop-padding": string;
-    "--mask-gradient": string;
+    "--eio-twf-padding": any;
+    "--eio-twf-start-padding": string;
+    "--eio-twf-stop-padding": string;
+    "--eio-twf-mask-gradient": string;
     "-webkit-mask-image": string;
     maskImage: string;
 };
 export declare const fadeTop: (value: any) => {
-    "--start-padding": any;
-    "--mask-gradient": string;
+    "--eio-twf-start-padding": any;
+    "--eio-twf-mask-gradient": string;
     "-webkit-mask-image": string;
     maskImage: string;
 };
 export declare const fadeBottom: (value: any) => {
-    "--stop-padding": any;
-    "--mask-gradient": string;
+    "--eio-twf-stop-padding": any;
+    "--eio-twf-mask-gradient": string;
     "-webkit-mask-image": string;
     maskImage: string;
 };
 export declare const fadeLeft: (value: any) => {
-    "--start-padding": any;
-    "--mask-gradient": string;
+    "--eio-twf-start-padding": any;
+    "--eio-twf-mask-gradient": string;
     "-webkit-mask-image": string;
     maskImage: string;
 };
 export declare const fadeRight: (value: any) => {
-    "--stop-padding": any;
-    "--mask-gradient": string;
+    "--eio-twf-stop-padding": any;
+    "--eio-twf-mask-gradient": string;
     "-webkit-mask-image": string;
     maskImage: string;
 };
